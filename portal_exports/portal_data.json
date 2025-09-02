@@ -1,0 +1,41 @@
+{
+  "dataset_info": {
+    "name": "ES607 Weather Data",
+    "time_period": "2023-2024",
+    "total_points": 1755,
+    "variables": [
+      "temperature",
+      "dewpoint",
+      "wind_speed",
+      "precipitation"
+    ]
+  },
+  "statistics": {
+    "temperature": {
+      "mean": 26.39993667602539,
+      "std": 4.60834264755249,
+      "min": 13.323455810546875,
+      "max": 40.45660400390625
+    },
+    "dewpoint": {
+      "mean": 17.304370880126953,
+      "std": 4.690563678741455,
+      "min": 1.729644775390625,
+      "max": 24.351531982421875
+    },
+    "wind_speed": {
+      "mean": 2.0651211738586426,
+      "std": 0.7972713112831116,
+      "min": 0.5736529231071472,
+      "max": 5.225327968597412
+    }
+  },
+  "data_quality": {
+    "original_score": 65,
+    "cleaned_score": 91,
+    "improvement": 26
+  },
+  "correlations": {
+    "temperature_dewpoint": -0.0014963583114496993
+  }
+}

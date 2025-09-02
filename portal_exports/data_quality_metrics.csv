@@ -1,0 +1,6 @@
+metric,original_score,cleaned_score,improvement
+Completeness,89,100,11
+Consistency,65,95,30
+Accuracy,75,90,15
+Smoothness,60,85,25
+Overall,65,91,26
